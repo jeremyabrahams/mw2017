@@ -1,0 +1,23 @@
+*, *::before, *::after {
+	box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 400;
+}
+
+.intro-text {
+    color: #C3BFBF;
+    font-size: 2rem;
+    text-align: center;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.course-goals-list h3 {
+    color: #777777;
+    font-weight: 100;
+    font-size: 1.75rem;
+    text-transform: uppercase;
+}
